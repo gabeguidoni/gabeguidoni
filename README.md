@@ -3,15 +3,13 @@
 Pesquisador e desenvolvedor na área de **Inteligência Artificial e Ciência de Dados**, atualmente **mestrando no ITA**.  
 Tenho experiência profissional em modelagem estatística, aprendizado de máquina, automação de processos e pesquisa operacional, com foco em **transformar dados em decisões**.  
 
-Meu super poder é dividir problemas enormes em problemas pequenos e **calmamente** resolve-los um por vez.
-
 ##  Sobre mim
-Meu super poder é dividir problemas enormes em problemas pequenos e **calmamente** resolvê-los um por vez  
-Planejo viver além dos 100 anos
-Gosto muito de esportes, ar livre, lugares com pessoas, e estudar  
-Durante férias sempre encontro um projeto para desenvolver aprendendo algo, amo o que faço
+- Meu super poder é dividir problemas enormes em problemas pequenos e **calmamente** resolvê-los um por vez  
+- Planejo viver além dos 110 anos  
+- Gosto muito de esportes, ar livre, me movimentar e estudar  
+- Durante férias sempre encontro um projeto para desenvolver aprendendo algo novo, amo o que faço
 
-##  Formação
+##  Experiência
 - Mestrando em Inteligência Artificial – **ITA**
 - Cientista de Dados – experiência em projetos reais na **Suzano S.A.**
 
