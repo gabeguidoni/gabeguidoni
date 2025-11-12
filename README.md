@@ -21,6 +21,10 @@ Tenho experiência profissional em modelagem estatística, aprendizado de máqui
 - NLP e análise de texto em larga escala
 
 ##  Tecnologias e Ferramentas
+
+> _Code is read much more often than it is written, so plan accordingly_  
+> — Sir Isaac Newton, 1675
+
 Sou um habilisodos programador em Python e SQL, também grande entusiasta de C++  
 **Bibliotecas:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
 **Modelagem e Otimização:** PuLP, Gurobi  
