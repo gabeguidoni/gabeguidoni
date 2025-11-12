@@ -25,7 +25,7 @@ Tenho experiência profissional em modelagem estatística, aprendizado de máqui
 > _Code is read much more often than it is written, so plan accordingly_  
 > — Sir Isaac Newton, 1675
 
-Sou um habilisodos programador em Python e SQL, também grande entusiasta de C++  
+Sou um habilisodos programador em Python e SQL, também grande entusiasta de C++. Mas meu ponto forte é na matematica  
 **Bibliotecas:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
 **Modelagem e Otimização:** PuLP, Gurobi  
 **Cloud:** Google Cloud Platform (**GCP**), Microsoft **Azure**  
